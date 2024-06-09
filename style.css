@@ -1,0 +1,8 @@
+ul {
+    list-style-type: square;
+}
+
+li{
+    font-size: large;
+    font-weight: bold;
+}
